@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "322672362385",
+    "firebase_url": "https://kangin-bd290.firebaseio.com",
+    "project_id": "kangin-bd290",
+    "storage_bucket": "kangin-bd290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322672362385:android:c9929f8100bfa87c",
+        "android_client_info": {
+          "package_name": "com.example.samsung.kanginyoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322672362385-m2glk582g6es8u805vo3nce9hg3ssgo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.samsung.kanginyoo",
+            "certificate_hash": "bd975a6a455608cf578a38e86a3bdda10d8dce7f"
+          }
+        },
+        {
+          "client_id": "322672362385-efvq7h0vp6h4c2letsjkqv68k31iolh4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_rzXkU_O1P7kH2MIeKhGBLrUyFAI3TLM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322672362385-efvq7h0vp6h4c2letsjkqv68k31iolh4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
